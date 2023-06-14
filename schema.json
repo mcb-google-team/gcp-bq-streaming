@@ -1,7 +1,7 @@
 [
     {
         "name": "customer_id",
-        "type": "STRING",
+        "type": "INTEGER",
         "mode": "NULLABLE"
     },
     {
